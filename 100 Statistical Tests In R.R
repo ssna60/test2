@@ -86,7 +86,7 @@ sample3=c(5,8,0,2,4,8,3,7,9,10,10,15,12,12)
 data1=cbind(sample1,sample2,sample3)
 
 #-------------------------------------------------------------------------------
-
+#BOOK
 #Test 10 Durbin-Watson autocorrelation test
 dependent.variable=c(3083,3140,3218,3239,3295,3374,3475,3569,3597,3725)
 independent.variable=c(75,78,80,82,84,88,93,97,99,104,109,115,120,127)
